@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3fd4e8f-b0b1-4928-b32a-a4fc418e38f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d3fd4e8f-b0b1-4928-b32a-a4fc418e38f9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +126,11 @@
               <item name="Quotegenerator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Quotegenerator" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Quotegenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quotegenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,16 +169,15 @@
       <updated>1553782399263</updated>
       <workItem from="1553782401234" duration="7587000" />
       <workItem from="1553790523286" duration="404000" />
-      <workItem from="1553791061091" duration="2074000" />
+      <workItem from="1553791061091" duration="2737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10065000" />
+    <option name="totallyTimeSpent" value="10728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="760" y="0" width="783" height="840" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26417705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
